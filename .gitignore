@@ -1,0 +1,7 @@
+# IDE specific
+.idea
+
+# Build output
+out
+target
+bin
